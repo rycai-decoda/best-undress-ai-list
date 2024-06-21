@@ -10,3 +10,4 @@
 * [Bare.Club](https://Bare.Club) takes your regular, boring photos and turns them into something completely NSFW.
 * [DeepSwap](https://DeepSwap.ai) lets you create your own XXX deepfake videos, images and GIFs with just a couple steps.
 * [Deep Nude](https://Deep-Nude.ai) can and will undress your personal photos for free. 
+* [NSFW AIs](https://nsfwais.io) maintains a large directory specifically for NSFW related AI.

@@ -2,8 +2,8 @@
 
 ## Tested & recommended services:
 
-* [Undresser AI](https://undresser.ai) transforms photos with AI inpainting. You can even add more details to the picture (cum etc...)
-* [Porn Gen Art](https://porngen.art) can auto detect clothing and change dress. Undressing for male is also allowed.
+* [Undresser AI](https://undresser.ai/?utm_source=github) transforms photos with AI inpainting. You can even add more details to the picture (cum etc...)
+* [Porn Gen Art](https://porngen.art/?utm_source=github) can auto detect clothing and change dress. Undressing for male is also allowed.
 
 ## Other alternatives:
 * [ClothOff](https://ClothOff.io) can take your wholesome photos and turn them into nudes 

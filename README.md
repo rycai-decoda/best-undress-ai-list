@@ -6,6 +6,7 @@
 * [Porn Gen Art](https://porngen.art/?utm_source=github) can auto detect clothing and change dress. Undressing for male is also allowed.
 
 ## Other alternatives:
+* [Nudify.me](https://www.nudify.me/) create deepnude photo online and through telegram bot
 * [ClothOff](https://ClothOff.io) can take your wholesome photos and turn them into nudes 
 * [Undress Baby](https://UndressBaby.com) aka Grey's Secret Room, brings your fantasies to life using AI.
 * [PornX AI](https://PornX.ai) uses artificial intelligence to create the naughty pics of your dreams.
